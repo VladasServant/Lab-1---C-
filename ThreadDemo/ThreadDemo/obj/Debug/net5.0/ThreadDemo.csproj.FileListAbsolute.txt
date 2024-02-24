@@ -1,0 +1,16 @@
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.exe
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.deps.json
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.runtimeconfig.json
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.runtimeconfig.dev.json
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.dll
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ref\ThreadDemo.dll
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.pdb
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.csproj.AssemblyReference.cache
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.AssemblyInfoInputs.cache
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.AssemblyInfo.cs
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.dll
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ref\ThreadDemo.dll
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.pdb
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\ЛАба 1\ШАрк\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.genruntimeconfig.cache
