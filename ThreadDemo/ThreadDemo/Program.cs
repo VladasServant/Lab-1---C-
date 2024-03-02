@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 
 namespace ThreadDemo
@@ -7,17 +7,19 @@ namespace ThreadDemo
     {
         static void Main(string[] args)
         {
-            (new Program()).Start();
+            (new Program()).Start(6);
         }
 
-        void Start()
+        void Start(int processCount)
         {
-            (new Thread(() => Calcuator(1))).Start();
-            (new Thread(() => Calcuator(2))).Start();
-            (new Thread(() => Calcuator(3))).Start();
+            Thread[] threads = new Thread[processCount];
 
-            Thread thread1 = new Thread(() => Calcuator(4));
-            thread1.Start();
+            for (int i = 0; i < processCount; i++)
+            {
+                int id = i + 1;
+                threads[i] = new Thread(() => Calcuator(id));
+                threads[i].Start();
+            }
 
             (new Thread(Stoper)).Start();
         }
